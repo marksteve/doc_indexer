@@ -1,0 +1,3 @@
+[submodule "pyjinius"]
+	path = pyjinius
+	url = https://github.com/kivy/pyjnius.git

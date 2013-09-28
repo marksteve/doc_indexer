@@ -1,0 +1,8 @@
+Flask
+Flask-WhooshAlchemy==0.54a
+Flask-WTF
+Flask-Uploads
+WTForms-Alchemy
+pymysql
+Cython
+jnius
